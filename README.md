@@ -44,9 +44,3 @@ This project analyzes urban traffic movement across Berlin using open-source tra
 - Urban mobility and geospatial storytelling
 - Exporting for GIS and dashboard tools
 
----
-
-## 🧪 How to Run
-
-1. Clone this repo  
-2. Install dependencies  
